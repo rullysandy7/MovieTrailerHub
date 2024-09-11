@@ -1,2 +1,1 @@
-# MovieTrailerHub
- sekilas tentang trailer movie menggunakan CodeIgniter4
+# MovieTrailerHub menggunakan CodeIgniter4

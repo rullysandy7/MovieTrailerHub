@@ -1,0 +1,48 @@
+CRITICAL - 2023-04-12 06:10:43 --> include(beranda.php): Failed to open stream: No such file or directory
+in APPPATH\Views\home.php on line 84.
+ 1 APPPATH\Views\home.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(beranda.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\uts\\app\\Views\\home.php', 84)
+ 2 APPPATH\Views\home.php(84): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\uts\\app\\Views\\home.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('home', [], true)
+ 6 APPPATH\Controllers\Basis.php(10): view('home', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Basis->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Basis))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 06:11:06 --> include(beranda.php): Failed to open stream: No such file or directory
+in APPPATH\Views\home.php on line 83.
+ 1 APPPATH\Views\home.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(beranda.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\uts\\app\\Views\\home.php', 83)
+ 2 APPPATH\Views\home.php(83): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\uts\\app\\Views\\home.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('home', [], true)
+ 6 APPPATH\Controllers\Basis.php(10): view('home', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Basis->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Basis))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 06:11:08 --> include(beranda.php): Failed to open stream: No such file or directory
+in APPPATH\Views\home.php on line 83.
+ 1 APPPATH\Views\home.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(beranda.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\uts\\app\\Views\\home.php', 83)
+ 2 APPPATH\Views\home.php(83): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\uts\\app\\Views\\home.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('home', [], true)
+ 6 APPPATH\Controllers\Basis.php(10): view('home', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Basis->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Basis))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 06:11:25 --> include(berandahal404.php): Failed to open stream: No such file or directory
+in APPPATH\Views\home.php on line 84.
+ 1 APPPATH\Views\home.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(berandahal404.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\uts\\app\\Views\\home.php', 84)
+ 2 APPPATH\Views\home.php(84): include()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\uts\\app\\Views\\home.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('home', [], true)
+ 6 APPPATH\Controllers\Basis.php(10): view('home', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Basis->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Basis))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
